@@ -1,0 +1,44 @@
+:root {
+  --background-page: #e2e8f0;        
+  --background-card: #ffffff;
+  --background-input: #f8fafc;
+  --background-section: #f1f5f9;
+  --background-header-table: #475569;
+ 
+  --color-text-main: #1e293b;
+  --color-text-secondary: #64748b;
+  --color-text-muted: #ffffff;
+  --border-color: #cbd5e1;
+
+  --primary-color: #1e293b;
+  --primary-hover: #0f172a;
+ 
+  --success-color: #15803d;
+  --success-bg: #dcfce7;
+ 
+  --expense-color: #b91c1c;
+  --expense-bg: #fee2e2;
+ 
+  --bg-edit: #fef3c7;
+  --text-edit: #b45309;
+  --bg-edit-hover: #fde68a;
+ 
+  --bg-delete: #fee2e2;
+  --text-delete: #dc2626;
+  --bg-delete-hover: #fecaca;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif';
+}
+
+body {
+  background-color: #f4f6f9;
+  color: #333;
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
