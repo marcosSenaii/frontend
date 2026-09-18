@@ -1,0 +1,6 @@
+.app-title {
+    font-size: 2rem;
+    color: var(--primary-color);
+    text-align: center;
+    margin: 1rem 0;
+}
